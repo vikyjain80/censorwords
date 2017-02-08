@@ -1,6 +1,6 @@
 {
   "author": "Arpit Jain",
-  "name": "censorify",
+  "name": "censorifyArpit",
   "version": "1.0.0",
   "description": "Censors words out of text",
   "main": "censortext",
