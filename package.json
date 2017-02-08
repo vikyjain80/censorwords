@@ -5,7 +5,15 @@
   "description": "Censors words out of text",
   "main": "censortext",
   "dependencies": {},
-  "engines": {
-      "node": "*"
-  }
+    "engines": {
+        "node": "*"
+    },
+    "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ]
 }
